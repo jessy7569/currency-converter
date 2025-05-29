@@ -15,7 +15,7 @@ A simple command-line Currency Converter built with Python using the [Fixer.io](
 
 - Python 3.6+
 - `requests` library
-- Open API Key
+- Create Free Open API Key
 - Install dependencies (if needed):
 
 ```bash
